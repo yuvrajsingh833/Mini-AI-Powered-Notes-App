@@ -47,7 +47,7 @@ NotesAI is a modern note-taking application that combines the power of AI with i
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/yourusername/notesai.git](https://github.com/yuvrajsingh833/Mini-AI-Powered-Notes-App)
-   cd notesai
+   cd project
    ```
 
 2. **Install dependencies**
