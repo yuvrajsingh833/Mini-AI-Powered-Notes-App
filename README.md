@@ -111,6 +111,6 @@ The application is configured for deployment on Vercel:
 4. Push to the branch
 5. Open a pull request
 
-## License
+## Made by Yuvraj Singh Rathore with ❤️
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+All License are reserved @2025.
